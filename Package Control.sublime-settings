@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Color Highlighter",
+		"ColorPicker",
+		"DuplicateSelections",
+		"Expand Selection to Quotes",
+		"Fix Mac Path",
+		"Package Control",
+		"Python Checker",
+		"Restructured Text (RST) Snippets",
+		"SublimeLinter",
+		"ToggleQuotes",
+		"Wrap Plus"
+	]
+}
