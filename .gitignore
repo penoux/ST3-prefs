@@ -1,0 +1,6 @@
+Package Control.last-run
+.DS_Store
+*.cache
+SFTP.errors.log
+*.bak
+
